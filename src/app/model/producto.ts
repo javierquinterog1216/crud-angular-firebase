@@ -4,4 +4,5 @@ nombre: string;
 categoria: string;
 ubicacion: string;
 precio: number;
+asd: string;
 }
